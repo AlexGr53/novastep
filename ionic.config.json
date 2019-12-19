@@ -1,6 +1,8 @@
 {
   "name": "novastep",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular",
   "id": "8ac8af96"
 }
